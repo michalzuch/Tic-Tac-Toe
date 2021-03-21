@@ -1,5 +1,13 @@
-# Tic-Tac-Toe
+# Tic Tac Toe
 
-Terminal Tic-Tac-Toe game
+Terminal Tic Tac Toe game.  
+_Completed on 17 October 2020_
 
-Game is a project that was a part of JetBrains Academy Python Developer course.
+The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
+Link - [hyperskill/tic-tac-toe](https://hyperskill.org/projects/73?track=2)
+
+### About
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
+
+### Learning outcomes
+After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
